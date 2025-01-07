@@ -61,7 +61,7 @@
 <br/>
 
   ```
-  git clone https://github.com/gmldnjs212/moilkji.git
+  git clone https://github.com/Codeit-Sprint-Teamproject/frontend.git
   ```
   ```
   npm install
@@ -91,7 +91,7 @@
 - ***zustand***
 - ***zod***
 - ***react-hook-form***
-- ***mcw***
+- ***msw***
 - ***Tailwind CSS***
 - ***shadcn/ui***
 - ***Github Actions***
